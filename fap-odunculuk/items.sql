@@ -1,0 +1,2 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('balta', 'Balta', 2, 0, 1);
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('wood', 'Odun', 0.5, 0, 1);
